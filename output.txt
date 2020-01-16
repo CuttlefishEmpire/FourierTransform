@@ -1,0 +1,27 @@
+BPM:    
+We are the Champions.wav: 85
+We Will Rock You.wav: 142
+Living on a Prayer.wav: 122
+
+Dominant frequencies:    
+We are the Champions.wav: 97.952
+We Will Rock You.wav: 81.241
+Living on a Prayer.wav: 82.372
+
+Lengths:    
+We are the Champions.wav: 179
+We Will Rock You.wav: 122
+Living on a Prayer.wav: 250
+
+Key changes:    
+We are the Champions.wav: 0
+We Will Rock You.wav: 0
+Living on a Prayer.wav: 0
+
+Average BPM for rock: 116.333
+
+Average dominant frequency for rock: 87.189
+
+Average length for rock: 184.137
+
+Average number of key changes for rock: 0.0
