@@ -1,0 +1,29 @@
+BPM:    
+Solitude.wav: 141
+Solitude (but shit).wav: 68
+
+Dominant frequencies:    
+Solitude.wav: 59.560
+Solitude (but shit).wav: 179.113
+
+Lengths:    
+Solitude.wav: 335
+Solitude (but shit).wav: 337
+
+Key changes:    
+Solitude.wav: 1
+Solitude (but shit).wav: 7
+
+Octave:
+Solitude.wav: 1
+Solitude (but shit).wav: 3
+
+Average BPM for rock: 104.5
+
+Average dominant frequency for rock: 119.336
+
+Average length for rock: 336.955
+
+Average number of key changes for rock: 4.0
+
+Average octave for rock: 2.0
